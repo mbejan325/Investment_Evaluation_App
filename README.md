@@ -17,8 +17,8 @@ To run this application please follow the following steps:
 1)  Clone the repository
 2)  Open up your python CLI and activate the dev environment. Python version 3.7.10 needs to be used.
 3)  Navigate to the "Investment_Evaluation_App" folder and run "jupyter lab" command to open the jupyter lab interface.
-4)  In Jupyter lab, select the "finalrisk_return_analysis" file, it is located in the "Starter_Code" folder within the "Investment_Evaluation_App" foler.
-5)  From there, you can run the program as is to see how the four funds compare and contrast with the S&P500.
+4)  In Jupyter lab, select the "finalrisk_return_analysis" file, it is located in the "Starter_Code" folder within the "Investment_Evaluation_App" folder.
+5)  From there, you can run the program as is to see how the four funds compare with the S&P500.
 6)  When the application has been fully run the user will have an idea of the risks and returns associated with each option.
 
 **Contributors**
